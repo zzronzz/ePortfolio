@@ -1,0 +1,88 @@
+<!-- Container for Add/Edit Trip form -->
+<div class="container mt-4">
+  <div class="row justify-content-center">
+    
+    <!-- Form card -->
+    <div class="col-md-6">
+      <!-- Title for the form -->
+      <h3>{{ trip._id ? 'Edit Trip' : 'Add Trip' }}</h3>
+
+      <!-- User-facing error message -->
+      <div *ngIf="errorMessage" class="alert alert-danger" role="alert">
+        {{ errorMessage }}
+      </div>
+
+      <!-- User-facing success message -->
+      <div *ngIf="successMessage" class="alert alert-success" role="alert">
+        {{ successMessage }}
+      </div>
+
+      <!-- Form submission triggers onSubmit() in component -->
+      <form (ngSubmit)="onSubmit()" novalidate>
+
+        <!-- Trip code input -->
+        <input 
+          class="form-control mb-2" 
+          [(ngModel)]="trip.code" 
+          name="code" 
+          placeholder="Code"
+          required>
+
+        <!-- Trip name input -->
+        <input 
+          class="form-control mb-2" 
+          [(ngModel)]="trip.name" 
+          name="name" 
+          placeholder="Name"
+          required>
+
+        <!-- Trip length input -->
+        <input 
+          class="form-control mb-2" 
+          [(ngModel)]="trip.length" 
+          name="length" 
+          placeholder="Length"
+          required>
+
+        <!-- Resort name input -->
+        <input 
+          class="form-control mb-2" 
+          [(ngModel)]="trip.resort" 
+          name="resort" 
+          placeholder="Resort"
+          required>
+
+        <!-- Price per person input -->
+        <input 
+          class="form-control mb-2" 
+          [(ngModel)]="trip.perPerson" 
+          name="perPerson" 
+          placeholder="Price"
+          required>
+
+        <!-- Image filename input -->
+        <input 
+          class="form-control mb-2" 
+          [(ngModel)]="trip.image" 
+          name="image" 
+          placeholder="reef1.jpg"
+          required>
+
+        <!-- Description textarea -->
+        <textarea 
+          class="form-control mb-2" 
+          [(ngModel)]="trip.description" 
+          name="description" 
+          placeholder="Description"
+          required></textarea>
+
+        <!-- Button dynamically switches between Add and Update -->
+        <button class="btn btn-primary" type="submit">
+          {{ trip._id ? 'Update Trip' : 'Add Trip' }}
+        </button>
+
+      </form>
+    </div>
+
+  </div>
+</div>
