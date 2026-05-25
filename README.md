@@ -24,7 +24,11 @@ Folder: enhancement-one-software-design
 Artifact: Contact Service  
 Course: CS 320 Software Testing, Automation, and Quality Assurance  
 
-For Enhancement Two, I will improve an existing HashMap-based contact service by strengthening validation, defensive programming, exception handling, and JUnit test coverage.
+For Enhancement Two, I improved an existing HashMap-based Contact Service by strengthening validation, defensive programming, exception handling, and JUnit test coverage. The enhancement added validation for null contacts and null or blank contact IDs before HashMap operations. I also added helper methods for checking whether a contact exists and tracking the total number of stored contacts.
+
+The ContactServiceTest suite increased from 6 tests to 13 tests. After the enhancement, ContactServiceTest passed 13 out of 13 tests, and ContactTest passed 10 out of 10 tests.
+
+Folder: enhancement-two-algorithms
 
 ## Enhancement Three: Databases
 
