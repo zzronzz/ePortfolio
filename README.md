@@ -35,4 +35,8 @@ Folder: enhancement-two-algorithms
 Artifact: Grazioso Salvare Dashboard  
 Course: CS 340 Advanced Programming Concepts  
 
-For Enhancement Three, I will improve MongoDB CRUD error handling, query validation, credential handling, and documentation for the dashboard project.
+For Enhancement Three, I improved the Grazioso Salvare Dashboard by strengthening MongoDB CRUD error handling, input validation, database connection handling, and fallback data loading. The enhanced CRUD module now provides clearer database connection messages and checks whether the MongoDB collection is available before attempting database operations.
+
+I also updated the dashboard so it can continue running when MongoDB is unavailable. If the MongoDB connection fails or returns no records, the dashboard loads the local CSV fallback dataset. This allows the dashboard to still display table data, a breed distribution chart, and a geolocation map.
+
+Folder: enhancement-three-databases
