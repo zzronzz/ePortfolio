@@ -32,8 +32,11 @@ Course: CS 465 Full Stack Development
 For Enhancement One, I improved the Travlr Getaways full-stack application by adding stronger login validation, blank-field validation for adding trips, and user feedback for add, update, and delete actions.
 
 [View Original Files](https://youtu.be/kiaiKg_v-xs)
+
 [View Enhanced Files](https://youtu.be/kiaiKg_v-xs)
+
 [View Narrative](https://youtu.be/kiaiKg_v-xs)
+
 Folder: enhancement-one-software-design
 
 ## Enhancement Two: Algorithms and Data Structures
