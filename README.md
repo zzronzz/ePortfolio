@@ -1,6 +1,6 @@
 # CS 499 Computer Science Capstone ePortfolio
 
-## Professional Self-Assessment
+## PROFESSIONAL SELF-ASSESMENT
 
 I am Ronnie Corpuz, and this is my ePortfolio of the work I completed throughout the Computer Science program at Southern New Hampshire University. Through my studies, I grew significantly in many areas, including software design, algorithms and data structures, databases, testing, security, and technical communication. Since I come from an engineering background, I can relate computer science concepts to real-world technical systems, problem-solving, documentation, and project support. Because of this, my passion for computer science has grown toward practical software development, engineering applications, 3D graphics, and 3D modeling.
 
@@ -26,7 +26,8 @@ For Module Two, I completed a code review of my selected artifacts for the CS 49
 [Watch Code Review Video](https://youtu.be/kiaiKg_v-xs)
 
 
-## Enhancement One: Software Design and Engineering
+
+## ENHANCEMENT ONE: Software Design and Engineering
 
 Artifact: Travlr Getaways  
 Course: CS 465 Full Stack Development  
@@ -42,7 +43,8 @@ For Enhancement One, I improved the Travlr Getaways full-stack application by ad
 Folder: [enhancement-one-software-design](https://github.com/zzronzz/ePortfolio/tree/main/enhancement-one-software-design)
 
 
-## Enhancement Two: Algorithms and Data Structures
+
+## ENHANCEMENT TWO: Algorithms and Data Structures
 
 Artifact: Contact Service  
 Course: CS 320 Software Testing, Automation, and Quality Assurance  
@@ -60,7 +62,8 @@ The ContactServiceTest suite increased from 6 tests to 13 tests. After the enhan
 Folder: [enhancement-two-algorithms](https://github.com/zzronzz/ePortfolio/tree/main/enhancement-two-algorithms)
 
 
-## Enhancement Three: Databases
+
+## ENHANCEMENT THREE: Databases
 
 Artifact: Grazioso Salvare Dashboard  
 Course: CS 340 Advanced Programming Concepts  
