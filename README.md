@@ -18,11 +18,13 @@ As I continue to develop my computer science skills, I plan to apply them to pra
 
 This ePortfolio provides a professional representation of my growth within the Computer Science program. It provides the original artifacts, the enhanced artifacts, and explanations of the improvements I made. It also provides evidence that I can evaluate existing work, identify areas for improvement, apply relevant technical skills, and explain those improvements effectively.
 
+
 ## CODE REVIEW
 
 For Module Two, I completed a code review of my selected artifacts for the CS 499 Computer Science Capstone. In this video, I reviewed my original projects, explained the issues I planned to improve, and connected each enhancement to the required capstone categories: software design and engineering, algorithms and data structures, and databases.
 
 [Watch Code Review Video](https://youtu.be/kiaiKg_v-xs)
+
 
 ## Enhancement One: Software Design and Engineering
 
@@ -39,6 +41,7 @@ For Enhancement One, I improved the Travlr Getaways full-stack application by ad
 
 Folder: enhancement-one-software-design
 
+
 ## Enhancement Two: Algorithms and Data Structures
 
 Artifact: Contact Service  
@@ -52,6 +55,7 @@ The ContactServiceTest suite increased from 6 tests to 13 tests. After the enhan
 [View Enhanced Files](https://youtu.be/kiaiKg_v-xs)
 [View Narrative](https://youtu.be/kiaiKg_v-xs)
 Folder: enhancement-two-algorithms
+
 
 ## Enhancement Three: Databases
 
