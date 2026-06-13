@@ -39,7 +39,7 @@ For Enhancement One, I improved the Travlr Getaways full-stack application by ad
 
 [View Narrative](https://github.com/zzronzz/ePortfolio/tree/main/enhancement-one-software-design/narrative)
 
-Folder: enhancement-one-software-design
+Folder: [enhancement-one-software-design](https://github.com/zzronzz/ePortfolio/tree/main/enhancement-one-software-design)
 
 
 ## Enhancement Two: Algorithms and Data Structures
@@ -51,10 +51,13 @@ For Enhancement Two, I improved an existing HashMap-based Contact Service by str
 
 The ContactServiceTest suite increased from 6 tests to 13 tests. After the enhancement, ContactServiceTest passed 13 out of 13 tests, and ContactTest passed 10 out of 10 tests.
 
-[View Original Files](https://youtu.be/kiaiKg_v-xs)
-[View Enhanced Files](https://youtu.be/kiaiKg_v-xs)
-[View Narrative](https://youtu.be/kiaiKg_v-xs)
-Folder: enhancement-two-algorithms
+[View Original Files](https://github.com/zzronzz/ePortfolio/tree/main/enhancement-two-algorithms/original)
+
+[View Enhanced Files](https://github.com/zzronzz/ePortfolio/tree/main/enhancement-two-algorithms/enhanced)
+
+[View Narrative](https://github.com/zzronzz/ePortfolio/tree/main/enhancement-two-algorithms/narrative)
+
+Folder: [enhancement-two-algorithms](https://github.com/zzronzz/ePortfolio/tree/main/enhancement-two-algorithms)
 
 
 ## Enhancement Three: Databases
@@ -66,7 +69,10 @@ For Enhancement Three, I improved the Grazioso Salvare Dashboard by strengthenin
 
 I also updated the dashboard so it can continue running when MongoDB is unavailable. If the MongoDB connection fails or returns no records, the dashboard loads the local CSV fallback dataset. This allows the dashboard to still display table data, a breed distribution chart, and a geolocation map.
 
-[View Original Files](https://youtu.be/kiaiKg_v-xs)
-[View Enhanced Files](https://youtu.be/kiaiKg_v-xs)
-[View Narrative](https://youtu.be/kiaiKg_v-xs)
-Folder: enhancement-three-databases
+[View Original Files](https://github.com/zzronzz/ePortfolio/tree/main/enhancement-three-databases/original)
+
+[View Enhanced Files](https://github.com/zzronzz/ePortfolio/tree/main/enhancement-three-databases/enhanced)
+
+[View Narrative](https://github.com/zzronzz/ePortfolio/tree/main/enhancement-three-databases/narrative)
+
+Folder: [enhancement-three-databases](https://github.com/zzronzz/ePortfolio/tree/main/enhancement-three-databases)
